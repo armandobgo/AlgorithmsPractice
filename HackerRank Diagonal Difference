@@ -1,3 +1,8 @@
+Calculate the absolute difference of sums across the two diagonals of a square matrix 
+
+
+
+
 process.stdin.resume();
 process.stdin.setEncoding('ascii');
 
